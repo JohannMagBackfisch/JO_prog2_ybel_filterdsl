@@ -1,0 +1,1 @@
+(((year <= 1990) or (artist == "Beatles")) and (year > 1960))

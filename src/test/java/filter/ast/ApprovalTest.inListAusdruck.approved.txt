@@ -1,0 +1,1 @@
+(genre in ("rock", "jazz", "grunge"))

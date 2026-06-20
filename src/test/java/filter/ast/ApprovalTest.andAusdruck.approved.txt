@@ -1,0 +1,1 @@
+((artist == "Beatles") and (year == 1965))

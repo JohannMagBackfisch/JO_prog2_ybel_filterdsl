@@ -1,0 +1,1 @@
+((genre in ("rock", "jazz")) or ((year <= 1990) and (not (artist == "Beatles"))))
